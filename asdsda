@@ -1,0 +1,106 @@
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;900&family=Ubuntu:wght@300;400;700&display=swap" rel="stylesheet">
+
+
+    h1 {  font-family: 'Montserrat', sans-serif;  font-size: 3rem;  line-height: 1.5;  font-weight: 900;}
+
+font-family: 'Montserrat', sans-serif;
+
+
+<div class="row">
+  <div class="col" style="background-color:red; border: 1px solid;">
+  col
+  </div
+  <div class="col" style="background-color:red; border: 1px solid;">
+  col
+  </div>
+  <div class="col" style="background-color:red; border: 1px solid;">
+  col
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-6" style="background-color:green; border 1px solid;">
+    col-6
+  </div>
+  <div class="col-3" style="background-color:green; border 1px solid;">
+    col-3
+  </div>
+  <div class="col-2" style="background-color:green; border 1px solid;">
+    col-2
+  </div>
+  <div class="col-1" style="background-color:green; border 1px solid;">
+    col-1
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:blue; border 1px solid;">
+    col-lg-3 col-md-4 col-sm-6
+  </div>
+  <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:blue; border 1px solid;">
+    col-lg-3 col-md-4 col-sm-6
+  </div>
+  <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:blue; border 1px solid;">
+    col-lg-3 col-md-4 col-sm-6
+  </div>
+  <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:blue; border 1px solid;">
+    col-lg-3 col-md-4 col-sm-6
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-2 col-md-3" style="background-color:yellow; border 1px solid;">
+  </div>
+  <div class="col-lg-2 col-md-3" style="background-color:yellow; border 1px solid;">
+  </div>
+  <div class="col-lg-2 col-md-3" style="background-color:yellow; border 1px solid;">
+  </div>
+  <div class="col-lg-2 col-md-3" style="background-color:yellow; border 1px solid;">
+  </div>
+  <div class="col-lg-2 col-md-3" style="background-color:yellow; border 1px solid;">
+  </div>
+  <div class="col-lg-2 col-md-3" style="background-color:yellow; border 1px solid;">
+  </div>
+</div>
+
+
+
+
+<div id="testimonial-carousel" class="carousel slide" data-bs-ride="false">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+
+    </div>
+    <div class="carousel-item">
+
+    </div>
+    <div class="carousel-item">
+
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#testimonial-carousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#testimonial-carousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" </span>
+  </button>
+</div>
+
+
+<div class="card">
+    <div class"card-header">
+
+    </div>
+
+
+    <div class"card-body">
+
+    </div>
+
+
+    <div class"card-footer">
+
+    </div>
+
+</div>
